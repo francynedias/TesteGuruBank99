@@ -10,8 +10,17 @@ Acredito que por essa prática possa ser possível não somente práticar, mas a
 
 Este repositório será atualizado no decorrer da prática.
 
-Dia 1 - A chegada do primeiro e-mail! Nele contém o SRS (Especificação de Requisitos de Software), onde foi o momento de conhecer o projeto, logo realizei a leitura, análise e busquei entender sobre as funcionalidades que estarão presentes no software. Após a leitura, o passo seguinte foi o inicio do planejamento de como os casos de testes e testes serão efetuados, assim como caracteristicas e prioridades do projeto. 
+Dia 1 - A chegada do primeiro e-mail! Nele contém o SRS (Especificação de Requisitos de Software), onde foi o momento de conhecer o projeto, logo realizei a leitura, análise e busquei entender sobre as funcionalidades que estarão presentes no software. Após a leitura, o passo seguinte foi o inicio do planejamento de como os casos de testes e os testes serão efetuados, assim como caracteristicas e prioridades. 
 
-Dia 2 - O segundo e-mail foi enviado, e nele continham documentos importantes, sendo o primeiro um Mockup com algumas telas do projeto e uma FAQ com perguntas importantissímas sobre software e que me fazem perceber a importancia de questionar as coisas quando estamos em uma posição de testador de um software. A partir desse e-mail, é que a criação dos casos de teste começa a ser elaborada, pois agora há base visual e requisitos técnicos que permitem/ajudam a criaçãos dos casos.
+Dia 2 - No segundo e-mail, continha suposições de uma situação real onde, mesmo com o documento SRS haveria algumas lacunas no entendimento aprofundado do projeto, que seriam discutidos em equipe. Desta forma, segundo essa situação hipotética ainda não seria possível elaborar os casos de testes. Após o exposto, foi encaminhado nesse e-mail documentos importantes que vão permitir o começo da criação dos CT's, sendo o primeiro documento um Mockup com algumas telas do projeto (o que já ajudou a entender muito mais sobre o projeto e funcionalidades a serem testadas) e uma FAQ com perguntas importantissímas que me fazem perceber a importancia de questionar sobre os detalhes, funcionalidades e etc de um sistema. A partir desse e-mail, é que a criação dos casos de teste começa a ser pensada, pois agora há base visual e requisitos técnicos que permitem e ajudam na criação dos casos de testes.
 
-Dia 3 - em atualização ...
+Dia 3 - O e-mail 3 é partido do pressuposto em que houve um reunião com a equipe de desenvolvimento, e nela é informado pela equipe que na primeira versão do site bancário, serão implementados os seguintes módulos:
+Novo cliente
+- Editar cliente
+- Nova conta
+- Editar conta
+- Deletar conta
+- Excluir cliente
+- Minideclaração
+- Declaração personalizada
+Desta forma, agora é necessário a criação dos casos de teste para esses módulos.
