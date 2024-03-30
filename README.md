@@ -25,3 +25,5 @@ Novo cliente
 - Declaração personalizada
 
 Desta forma, agora é necessário a criação dos casos de teste para esses módulos.
+
+Dia 4 - Em progresso ...
