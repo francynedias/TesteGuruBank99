@@ -35,4 +35,7 @@ Dia 4 - Após os casos de testes feitos, recebi o e-mail da equipe com o gabarit
 
 Dia 5 - Iniciada as excecuções dos testes! Recebi as instruções e link de acesso a primeira versão do sistema, desta forma pude iniciar as execuções dos testes e detalhar sobre resultados esperados, resultados obtidos e documentando sobre os bugs encontrados.
 
-Dia 6 - Em atualização ... 
+Dia 6 - No e-mail do dia 6, constava mais um 'gabarito' da execução dos testes feitos pelos especialistas. Muitos bugs foram encontrados, assim como foi percebido muitas falhas nos testes de integração, pois os módulos não foram integrados de maneira correta, o que fez com que o sistema perdesse muito de suas funcionalidades, desta forma assim que os bugs fossem corrigidos ao próximo dia um teste de sanidade será realizado para que verificar se os bugs foram corrigidos e se nenhum outro problema foi introduzido devido as alterações realizadas.
+Outro ponto do dia 6 foi que o documento de especifições do software foi atualizado e com base nisso, a tarefa do dia foi criar casos de teste para uma nova funcionalidade criada: Consulta de saldo.
+
+Dia 7 - Em atualização...
