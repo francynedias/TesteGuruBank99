@@ -13,6 +13,11 @@ Este repositório será atualizado no decorrer da prática.
 Dia 1 - A chegada do primeiro e-mail! Nele contém o SRS (Especificação de Requisitos de Software), onde foi o momento de conhecer o projeto, logo realizei a leitura, análise e busquei entender sobre as funcionalidades que estarão presentes no software. Após a leitura, o passo seguinte foi o inicio do planejamento de como os casos de testes e os testes serão efetuados, assim como caracteristicas e prioridades. 
 
 Dia 2 - No segundo e-mail, continha suposições de uma situação real onde, mesmo com o documento SRS haveria algumas lacunas no entendimento aprofundado do projeto, que seriam discutidos em equipe. Desta forma, segundo essa situação hipotética ainda não seria possível elaborar os casos de testes. Após o exposto, foi encaminhado nesse e-mail documentos importantes que vão permitir o começo da criação dos CT's, sendo o primeiro documento um Mockup com algumas telas do projeto (o que já ajudou a entender muito mais sobre o projeto e funcionalidades a serem testadas) e uma FAQ com perguntas importantissímas que me fazem perceber a importancia de questionar sobre os detalhes, funcionalidades e etc de um sistema. A partir desse e-mail, é que a criação dos casos de teste começa a ser pensada, pois agora há base visual e requisitos técnicos que permitem e ajudam na criação dos casos de testes.
+Nesse momento, busquei revisar as técnicas de caixa preta e selecionei em príncipio algumas para utilizar no projeto:
+- Teste de valor limite
+- Teste de particionamento de equivalência
+- Teste de transição de estado
+- Casos de uso
 
 Dia 3 - O e-mail 3 é partido do pressuposto em que houve um reunião com a equipe de desenvolvimento, e nela é informado pela equipe que na primeira versão do site bancário, serão implementados os seguintes módulos:
 Novo cliente
@@ -26,4 +31,8 @@ Novo cliente
 
 Desta forma, agora é necessário a criação dos casos de teste para esses módulos.
 
-Dia 4 - Em progresso ...
+Dia 4 - Após os casos de testes feitos, recebi o e-mail da equipe com o gabarito dos casos de testes dessas primeiras funcionalidades desenvolvidas. Esse momento foi indicado para analisar todos os casos de testes que havia feito e comparar com o gabarito da equipe, deixar tudo alinhado para no próximo dia iniciar a execução. No e-mail também foi recomendado leituras e busca de entendimento mais a fundo sobre teste de integração.
+
+Dia 5 - Iniciada as excecuções dos testes! Recebi as instruções e link de acesso a primeira versão do sistema, desta forma pude iniciar as execuções dos testes e detalhar sobre resultados esperados, resultados obtidos e documentando sobre os bugs encontrados.
+
+Dia 6 - Em atualização ... 
