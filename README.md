@@ -38,4 +38,6 @@ Dia 5 - Iniciada as excecuções dos testes! Recebi as instruções e link de ac
 Dia 6 - No e-mail do dia 6, constava mais um 'gabarito' da execução dos testes feitos pelos especialistas. Muitos bugs foram encontrados, assim como foi percebido muitas falhas nos testes de integração, pois os módulos não foram integrados de maneira correta, o que fez com que o sistema perdesse muito de suas funcionalidades, desta forma assim que os bugs fossem corrigidos ao próximo dia um teste de sanidade será realizado para que verificar se os bugs foram corrigidos e se nenhum outro problema foi introduzido devido as alterações realizadas.
 Outro ponto do dia 6 foi que o documento de especifições do software foi atualizado e com base nisso, a tarefa do dia foi criar casos de teste para uma nova funcionalidade criada: Consulta de saldo.
 
-Dia 7 - Em atualização...
+Dia 7 - Após a criação dos casos de teste para a nova funcionalidade, o e-mail do dia 7 continha o link da versão 2.0 do sistema, onde também foi relatado que os bugs haviam sido corrigidos e que agora seria necessário refazer a execução dos testes que haviam sido sinalizados com bugs. Após executar novamente os casos de teste, foi notado que os bugs mais criticos foram resolvidos. 
+
+Dia 8 - Em atualização . . .
