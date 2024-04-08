@@ -40,4 +40,25 @@ Outro ponto do dia 6 foi que o documento de especifições do software foi atual
 
 Dia 7 - Após a criação dos casos de teste para a nova funcionalidade, o e-mail do dia 7 continha o link da versão 2.0 do sistema, onde também foi relatado que os bugs haviam sido corrigidos e que agora seria necessário refazer a execução dos testes que haviam sido sinalizados com bugs. Após executar novamente os casos de teste, foi notado que os bugs mais criticos foram resolvidos. 
 
-Dia 8 - Em atualização . . .
+Dia 8 - Dia de conhecer as atualizações da versão 3.0 do sistema, logo, o novo documento de SRS versão 3 foi enviado para leitura, e também foi informado que novas funcionalidades para função gerente serão desenvolvidas assim como iniciará o desenvolvimento das funções de cliente. Desta forma foi dia que criar criar casos de teste para cada nova funcionalidade listada abaixo e realizar teste de integração entre os módulos já existentes, o que não foi de muito sucesso, pois alguns módulos ainda constavam com problemas de integração.
+
+Função de gerente:
+- Alterar a senha
+- Depósito
+- Cancelamento
+- Transferência de fundos
+
+Função do cliente:
+- Consulta de saldo
+- Transferência de fundos
+- Minideclaração
+- Declaração personalizada
+- Alterar a senha
+
+Dia 9 - No e-mail deste dia continha apenas aviso de que ao próximo dia a versão 3 do sistema estaria liberada. Logo, segui com a criação e adaptação dos casos de teste do dia 8.
+
+Dia 10 - Chegada a Versão 3.0 para a realização dos testes, houveram novas alterações do documento SRS do projeto, entre as alterações foram inseridas instruções e documentação para realização de testes de API, para testar se os parâmetros obrigatórios estão sendo respeitados. 
+Além disso, como as funcionalidades para cliente estão sendo desenvolvidas, agora pela versão foi necessário criar as credenciais de cliente e seguir com as execuções dos testes.
+
+Dia 11 - Em atualização ... 
+
