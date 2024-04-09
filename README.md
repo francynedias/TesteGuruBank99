@@ -57,8 +57,15 @@ Função do cliente:
 
 Dia 9 - No e-mail deste dia continha apenas aviso de que ao próximo dia a versão 3 do sistema estaria liberada. Logo, segui com a criação e adaptação dos casos de teste do dia 8.
 
-Dia 10 - Chegada a Versão 3.0 para a realização dos testes, houveram novas alterações do documento SRS do projeto, entre as alterações foram inseridas instruções e documentação para realização de testes de API, para testar se os parâmetros obrigatórios estão sendo respeitados. 
-Além disso, como as funcionalidades para cliente estão sendo desenvolvidas, agora pela versão foi necessário criar as credenciais de cliente e seguir com as execuções dos testes.
+Dia 10 - Chegada a Versão 3.0 para a realização dos testes, houveram novas alterações do documento SRS do projeto, entre as alterações foram inseridas instruções e documentação para realização de testes de API mais adiante, para testar se os parâmetros obrigatórios estão sendo respeitados. 
+Além disso, como as funcionalidades para cliente estão sendo desenvolvidas, agora chegou o momento de criar as credenciais de cliente e seguir com as execuções dos testes.
 
-Dia 11 - Em atualização ... 
+Dia 11 -  Após a execução dos testes, houve o momento de reporte de bugs encontrados.
+Nesse momento também já foi disponibilizado o novo SRS da versão 4.0 do sistema, com novas alterações.
+
+Dia 12 - Versão 4.0 do sistema foi liberada! Dia de testar API e executar novamente os casos de testes em que haviam reporte de bugs. 
+
+
+
+
 
