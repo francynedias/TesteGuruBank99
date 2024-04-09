@@ -63,7 +63,10 @@ Além disso, como as funcionalidades para cliente estão sendo desenvolvidas, ag
 Dia 11 -  Após a execução dos testes, houve o momento de reporte de bugs encontrados.
 Nesse momento também já foi disponibilizado o novo SRS da versão 4.0 do sistema, com novas alterações.
 
-Dia 12 - Versão 4.0 do sistema foi liberada! Dia de testar API e executar novamente os casos de testes em que haviam reporte de bugs. 
+Dia 12 - Versão 4.0 do sistema foi liberada! Dia de testar API (utilizarei o Postman) e executar novamente os casos de testes em que haviam reporte de bugs. 
+
+Dia 13 - Após concluir a execução dos casos de testes com bugs, percebi que nem todos foram corrigidos, assim como os testes da API nem todos apresentaram o comportamento esperado. No entanto, concluo com êxito a execução desse projeto - mesmo que por certos momentos não pensei ser capaz de concluir esse desafio - e deixo registrado o quanto ele me agregou, me ensinou sobre uso de técnicas, me ajudou na prática me fazendo perceber e analisar como está minha base, como compreendo e aplico os conhecimentos fundamentais e básico de teste de software. 
+Com certeza, foi um ganho incrível de conhecimento realizar esse desafio!
 
 
 
